@@ -10,6 +10,9 @@ from telegram.constants import ChatAction
 from telegram.error import RetryAfter, TimedOut, NetworkError, BadRequest, Forbidden
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 from gtts import gTTS
+python-telegram-bot==22.5
+Flask
+httpx
 
 from http.server import HTTPServer, BaseHTTPRequestHandler
 import threading
