@@ -13,3 +13,6 @@ youtube-search-python
 instaloader
 numpy
 asyncio
+python-telegram-bot==22.5
+Flask
+httpx
