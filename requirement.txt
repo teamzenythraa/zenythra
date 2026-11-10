@@ -1,0 +1,15 @@
+python-telegram-bot
+yt-dlp
+qrcode[pil]
+requests
+gTTS
+telethon
+aiohttp
+edge_tts
+flask
+pytz
+str
+youtube-search-python
+instaloader
+numpy
+asyncio
